@@ -1,4 +1,4 @@
-# Mobile-game-analytics
+# Mobile game analytics
 Аналитика мобильной игры 'Plants & Gardens'
 
 Стек технологий: SQL, Python, Excel, A/B-тестирование, статистический анализ.
